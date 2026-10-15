@@ -36,3 +36,9 @@ Budowanie po rozpakowaniu paczki: przejdź do `source/`, uruchom `npm ci`, nast�
 ## Źródła i grafiki
 
 Pełna bibliografia jest na końcu prezentacji i przy poszczególnych slajdach. Reprodukcje dzieł służą analizie w prezentacji edukacyjnej. Nie stanowią materiałów z ogólną licencją na dalsze wykorzystanie.
+
+## Aktualizacja 15.10.2026
+
+Przebudowano porównanie plakatu przed i po, wyjaśnienie TDM, historię sprawy GEMA przeciwko Suno i quiz z odpowiedziami FAŁSZ / PRAWDA / FAŁSZ. Notatki i tekst wystąpienia odpowiadają aktualnym slajdom. Pozostaje 29 slajdów i plan na 30 minut.
+
+Ilustrację futurystycznego miasta do slajdu 9 wygenerowano narzędziem imagegen. Ten sam obraz pokazano osobno i jako element hipotetycznego projektu plakatu. To demonstracja, a nie rozstrzygnięcie o ochronie widocznego projektu. Prompt i opis pliku znajdują się w paczce w GRAFIKA_AI.txt.
